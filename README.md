@@ -3,8 +3,7 @@
 <h3 align="center">A passionate Junior Fullstack Developer from Turkey</h3>
 
 
-
-​																
+														
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/emrecakiral/FlatLabProjectWebApplication">FlatLabProjectWebApplication</a></p>
 
