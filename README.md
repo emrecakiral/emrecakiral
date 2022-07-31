@@ -4,7 +4,9 @@
 
 
 
-​																	🔭 I’m currently working on [FlatLabProjectWebApplication](https://github.com/emrecakiral/FlatLabProjectWebApplication)
+​																
+
+<p align="center">🔭 I’m currently working on <a href="https://github.com/emrecakiral/FlatLabProjectWebApplication">FlatLabProjectWebApplication</a></p>
 
 
 
@@ -22,7 +24,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecakiral&show_icons=true&locale=en&layout=compact" alt="emrecakiral" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecakiral&show_icons=true&locale=en&layout=compact" alt="emrecakiral" /></p>
 
 
 
