@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emre</h1>
 
-<h3 align="center">My name is Emre Çakıral. I am 25 years old. I received Microsoft Certified Solution Developer training at the BT Academy Educational institution. I have been developing myself about software for a long time and I continue to learn.</h3>
+<h3 align="center">A passionate Jr. Fullstack Developer from Turkey. You can find the projects I've been working on in this area.</h3>
 
 
 														
