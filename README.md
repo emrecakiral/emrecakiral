@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Jr. Fullstack Developer from Turkey. You can find the projects I've been working on in this area.</h3>
 
 
-														
-
-<h3 align="center">🔭 I’m currently working on <a href="https://github.com/emrecakiral/TaskManagementPanel">TaskManagementPanel</a></h3>
+													
 
 ​		
 
