@@ -33,7 +33,7 @@
 
 ​		
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrecakiral&show_icons=true&locale=en&layout=compact" alt="emrecakiral" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=emrecakiral&show_icons=true&locale=en&layout=compact" alt="emrecakiral" /></p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emrecakiral&label=Profile%20views&color=10b40e&style=flat" alt="emrecakiral" /> </p>
